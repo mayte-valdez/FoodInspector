@@ -1,0 +1,35 @@
+div .searchBar button {
+    background: #FFA227;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+    color: white;
+    border: none;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+    cursor: pointer;
+}
+div .searchBar button:hover {
+    background-color: tomato;
+}
+
+div .searchBar .inputSearch {
+    width: 200px;
+    margin: 0 10px 0 10px;
+    font-family: 'Inter', sans-serif;
+}
+
+div .searchBar {
+    background-color: #F9F8F6;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    border-radius: 100px;
+    padding: 5px;
+}
+
+@media screen and (max-width: 770px){
+    div .searchBar {
+       margin-top: 10px;
+    }
+
+}
