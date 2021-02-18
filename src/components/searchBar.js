@@ -13,6 +13,7 @@ function SearchBar(props) {
 
     function productSearch(){
         props.onSearch(productName)
+        setProductName("")
     }
     
     return (
