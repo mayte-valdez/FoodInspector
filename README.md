@@ -1,7 +1,6 @@
 # ![Food Inspector logo](https://raw.githubusercontent.com/mayte-valdez/FoodInspector/master/src/images/logoFoodInspector.svg)
 
-This project was create by [Mayte Valdez](https://github.com/mayte-valdez) as a part of Remote front-end developer training course.
-
+This project was create by [Mayte Valdez](https://github.com/mayte-valdez), exercice for the front-end developer training course at the [Wild Code School](https://www.wildcodeschool.com/fr-FR).
 
 ## About the projet
 Food inspector is an app inpired in [yuka](https://yuka.io/). 
@@ -22,8 +21,9 @@ You can find differents food products, look the ingredients and the Nutri Score.
 
 ## Structure
 
-| Home | Product Page | About |
-| --- | --- | --- | 
-| <img src="">  | <img src=""> |  <img src="">  | 
-| Mobile | 
-| <img src=""> |
+<img src="https://raw.githubusercontent.com/mayte-valdez/FoodInspector/master/public/FoodInspector1.gif">
+
+| Mobile | Product Page | 
+| --- | --- |
+| <img src="https://raw.githubusercontent.com/mayte-valdez/FoodInspector/master/public/mobilFI0.png">  |  <img src="https://raw.githubusercontent.com/mayte-valdez/FoodInspector/master/public/mobilFI1.png">  | 
+
